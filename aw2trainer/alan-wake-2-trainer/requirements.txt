@@ -1,0 +1,9 @@
+# Alan Wake 2 Trainer Dependencies
+# This file lists NuGet packages required for the project.
+# Install with: dotnet add package <package>
+
+MemorySharp==1.4.0
+Newtonsoft.Json==13.0.3
+Moq==4.18.4
+MSTest.TestFramework==3.1.1
+MSTest.TestAdapter==3.1.1
