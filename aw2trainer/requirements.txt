@@ -1,0 +1,6 @@
+# Alan Wake 2 Trainer dependencies
+# This project uses only standard library modules (ctypes, struct, etc.)
+# No external dependencies required for core functionality.
+# If you wish to add GUI or additional features, consider:
+# pywin32>=305  # For advanced Windows API access
+# psutil>=5.9.0 # For process enumeration
